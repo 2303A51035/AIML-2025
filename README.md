@@ -8,7 +8,7 @@
 5. [Lab 05](https://github.com/2303A51035/AIML-2025/blob/e1be00be045a17f0129fe5abb9cef6b64483e797/AIML_A5.pdf):Implement Logistic Regression Model Using Titanic Ship Dataset
 6. [Lab 06](https://github.com/2303A51035/AIML-2025/blob/62d914751df233b3fb3e81b069c97dd34736b560/AIML_A6.pdf):Implement the K Nearest Neighbor Classification using Classified Manufacturing Dataset
 7. [Lab 07](https://github.com/2303A51035/AIML-2025/blob/62d914751df233b3fb3e81b069c97dd34736b560/AIML_A7.pdf):Implement Support Vector Machine Classification using Breast Cancer Dataset
-8. [Lab 08]():
+8. [Lab 08](https://github.com/2303A51035/AIML-2025/blob/8319f4313a423882dd966813dfcd9a109f4a4c82/AIML_A8.pdf):Implement Decision Tree Classification using OpenML Car Dataset
 9. [Lab 09]():
 10. [Lab 10]():
 
